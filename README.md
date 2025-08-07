@@ -60,8 +60,7 @@ Fortnite Wallhack is a utility that enhances your in-game visibility by highligh
 
 ### 🖼 Preview
 
-![Wallhack Screenshot 1](https://your-wallhack-screenshot-link-1.jpg)  
-![Wallhack Screenshot 2](https://your-wallhack-screenshot-link-2.jpg)
+Soon
 
 ---
 
